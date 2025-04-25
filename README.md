@@ -27,9 +27,9 @@ Feel free to reach out if you have a project in mind or just want to chat about 
 - **Personal Website**: [lewuathe.com](https://www.lewuathe.com/)
 
 ## 🛠️ My Toolbox
-- **Languages**: Python, Go, JavaScript, and more!
-- **Frameworks**: TensorFlow, PyTorch, Flask, and React.
-- **Tools**: Docker, Kubernetes, CI/CD pipelines, and more.
+- **Languages**: Python, Ruby, Java, C++ and more!
+- **Frameworks**: TensorFlow, PyTorch, Trino, Hadoop
+- **Tools**: Docker, Ruby on Rails, CI/CD pipelines, and more.
 - **Special Interests**: Compiler optimization and AI model acceleration.
 
 ---
